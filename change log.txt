@@ -1,0 +1,13 @@
+TPL1D
+
+Version log
+
+v2 May 2014
+- Temperature dependent minority carrier diffusivity enabled
+- Temperature dependent Si absorption coefficient enabled
+- Spontaneous emission term included in spetrally-resolved PL intensity
+- By defaults, TPL1D will sweep both time and spectra
+- User specified wavelength and time for time- and spectrally-resolved PL features enabled
+
+v1 Jul 2013
+- TPL1D released
