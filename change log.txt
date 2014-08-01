@@ -2,6 +2,9 @@ TPL1D
 
 Version log
 
+v2 Jul 2014
+- Bug (pointed out by Dr. Ziv Hameiri) fixed
+
 v2 May 2014
 - Temperature dependent minority carrier diffusivity enabled
 - Temperature dependent Si absorption coefficient enabled
